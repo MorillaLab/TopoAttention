@@ -5,7 +5,8 @@
 ### Topological Transformers for Post-Lung-Transplant Mortality Prediction
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://choosealicense.com/licenses/gpl-3.0/)
-[![medRxiv](https://img.shields.io/badge/medRxiv-2025.10.01.25337124-b31b1b.svg)](https://www.medrxiv.org/content/10.1101/2025.10.01.25337124v1)
+[![medRxiv](https://img.shields.io/badge/medRxiv-2025.10.01.25337124-b31b1b.svg)](https://doi.org/10.1371/journal.pdig.0001050)
+[![PDH](https://img.shields.io/badge/medRxiv-2025.10.01.25337124-b31b1b.svg)](https://www.medrxiv.org/content/10.1101/2025.10.01.25337124v1)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18699204.svg)](https://doi.org/10.5281/zenodo.18699204)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MorillaLab/TopoAttention/blob/main/examples/TopoAttention_demo.ipynb)
