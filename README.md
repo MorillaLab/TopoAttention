@@ -163,6 +163,20 @@ If you use TopoAttention in your research, please cite:
   url     = {https://www.medrxiv.org/content/early/2025/10/03/2025.10.01.25337124}
 }
 
+@article{10.1371/journal.pdig.0001050,
+    doi = {10.1371/journal.pdig.0001050},
+    author = {Tran-Dinh, Alexy AND Atchade, Enora AND Tanaka, SÃ©bastien AND Lortat-Jacob, Brice AND Castier, Yves AND Mal, HervÃ© AND Messika, Jonathan AND Mordant, Pierre AND Montravers, Philippe AND Morilla, Ian},
+    journal = {PLOS Digital Health},
+    publisher = {Public Library of Science},
+    title = {Early identification of high-risk individuals for mortality after lung transplantation: A retrospective cohort study with topological feature engineering},
+    year = {2026},
+    month = {05},
+    volume = {5},
+    url = {https://doi.org/10.1371/journal.pdig.0001050},
+    pages = {1-29},
+    number = {5},
+}
+
 @software{morilla2026TopoAttention,
   author    = {Morilla, Ian and Tran-Dinh, Alexy},
   title     = {Topological Feature Engineering for Lung Transplantation Mortality Prediction},
